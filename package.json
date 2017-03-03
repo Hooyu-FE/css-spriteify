@@ -1,0 +1,23 @@
+{
+  "name": "css-spriteify",
+  "version": "1.0.0",
+  "description": "A gulp plugin for generator a css-sprite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hooyu-FE/css-spriteify.git"
+  },
+  "keywords": [
+    "gulp",
+    "css-sprite"
+  ],
+  "author": "yiwei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hooyu-FE/css-spriteify/issues"
+  },
+  "homepage": "https://github.com/Hooyu-FE/css-spriteify#readme"
+}
