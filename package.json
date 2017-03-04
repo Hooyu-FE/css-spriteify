@@ -19,5 +19,21 @@
   "bugs": {
     "url": "https://github.com/Hooyu-FE/css-spriteify/issues"
   },
-  "homepage": "https://github.com/Hooyu-FE/css-spriteify#readme"
+  "homepage": "https://github.com/Hooyu-FE/css-spriteify#readme",
+  "dependencies": {
+    "async": "^2.1.5",
+    "concat-stream": "^1.6.0",
+    "get-pixels": "^3.3.0",
+    "mime-types": "^2.1.14",
+    "ndarray": "^1.0.18",
+    "ndarray-fill": "^1.0.1",
+    "pixelsmith": "^2.1.1",
+    "save-pixels": "^2.3.4",
+    "vinyl-file": "^3.0.0"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-class-properties": "^6.23.0",
+    "babel-preset-env": "^1.2.0",
+    "babel-preset-stage-3": "^6.22.0"
+  }
 }
